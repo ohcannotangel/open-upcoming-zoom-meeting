@@ -1,9 +1,6 @@
 # upcomingZoomStarter
 
 check your calendar and open upcoming zoom meeting.
- 
-# DEMO
-
 
 # Installation
 1. Open upcomingZoomStarter.applescript with "Script Editor" app (default)
